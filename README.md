@@ -10,3 +10,6 @@ During the development of Calculator Consum, several key factors were learned to
 
 In summary, Calculator Consum is a beautifully designed Android app that makes calculating fuel consumption simple and straightforward. With its use of WebScraping technology, DrawerLayout interface, and asynchronous task handling, it offers a fast and reliable way to stay up-to-date with fuel prices.
 
+<img src="https://user-images.githubusercontent.com/81863134/224782106-252b3420-b79c-4a78-b832-34c1c518265a.png" width="200"> <img src="https://user-images.githubusercontent.com/81863134/224782138-1a7dea11-8dd9-452a-8b43-c841dbf9e680.png" width="200"> <img src="https://user-images.githubusercontent.com/81863134/224782183-8f8135a9-f0bc-4028-b37d-e41ac5c8b598.png" width="200"> <img src="https://user-images.githubusercontent.com/81863134/224782235-78521dc3-a27f-4d3a-9f27-e307329a668c.png" width="200">
+
+
